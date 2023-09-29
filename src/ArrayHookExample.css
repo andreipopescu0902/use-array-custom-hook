@@ -1,0 +1,17 @@
+.array-hook-example-title {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    gap: 0.25rem;
+    padding: 0.5rem;
+    width: 50%;
+}
+
+.array-hook-example-container {
+    display: flex;
+    flex-direction: column;
+    background-color: lightslategray;
+    gap: 0.25rem;
+    padding: 0.5rem;
+    width: 50%;
+}
